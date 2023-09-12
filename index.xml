@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Paweł Mastalerz</title>
+    <link>https://mastalerz.info/</link>
+    <description>Recent content on Paweł Mastalerz</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://mastalerz.info/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About me</title>
+      <link>https://mastalerz.info/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mastalerz.info/about/</guid>
+      <description>I&amp;rsquo;m a Solutions Engineer at Brainly. My expertise lies in maintaining and optimizing our large-scale platform. Beyond work, I&amp;rsquo;m a devoted husband and a father to two daughters, striking a harmonious balance between my professional and family life.
+In my leisure time, I&amp;rsquo;m not only into hiking but also enjoy strumming electric guitar chords.</description>
+    </item>
+    
+  </channel>
+</rss>
